@@ -10,4 +10,4 @@ I'm interested in all things data science or machine learning related (and devel
 
 Occasionally you'll find my ramblings on life, books I've read and general non-technical stuff.
 
-Feel free to reach out at tuananhlam95@gmail.com
+Feel free to reach out at <tuananhlam95@gmail.com>
