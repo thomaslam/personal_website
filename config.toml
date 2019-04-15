@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://thomaslam.github.io/"
 languageCode = "en-us"
 title = "Thomas Lam"
 theme = "hugo-theme-basic"
@@ -14,8 +14,6 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
 
 [params]
   titleEmoji = ":tada:"
-  # change this!
-  twitter = "siegerts"
 
 [Permalinks]
   post = "post/:slug"
