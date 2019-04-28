@@ -7,7 +7,7 @@ series: "Machine Learning & Data Science concepts"
 
 **Logistic regression** is one of the most famous ML models used in supervised learning settings. Despite the term "regression" in its name, this model is mostly used for classification tasks. An important distinction between logistic regression and another very popular supervised learning model, **linear regression**, is that the response variable is categorical for the former but continuous for the latter.
 
-Most ML researchers use this model as a baseline in many supervised learning tasks despite its simplicity. In fact, for most practical applications, logistic regression turns out to be the best performing model even compared to more complex deep learning models. For example, it is the best model [to predict outcomes in NCAA mens basketball](/pdfs/Building_an_NCAA_mens_basketball_predictive_model.pdf) in a data science competition a few years back.
+Most ML researchers use this model as a baseline in many supervised learning tasks because of its simplicity. In fact, for most practical applications, logistic regression turns out to be the best performing model even compared to more complex deep learning models. For example, it is the best model [to predict outcomes in NCAA mens basketball](/pdfs/Building_an_NCAA_mens_basketball_predictive_model.pdf) in a data science competition a few years back.
 
 # Definition
 Standard logistic regression is used for binary classification tasks although it can be extended to multiclass settings (> 2 labels). Here's its formal definition:
