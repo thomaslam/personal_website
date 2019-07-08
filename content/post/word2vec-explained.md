@@ -1,6 +1,8 @@
 ---
 title: "Word2vec Explained"
-date: 2019-04-22T19:41:32-04:00
+date: 2019-05-01
 draft: true
+series: "Machine Learning & Data Science concepts"
 ---
+
 

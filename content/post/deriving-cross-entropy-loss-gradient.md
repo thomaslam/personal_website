@@ -106,20 +106,20 @@ Here's how these partial derivatives (denoted by dw and db) look like in logisti
 
 ```python
 def propagate(W, b, X, Y):
-  # Forward pass
-  num_samples = X.shape[0]
-  A = sigmoid(np.dot(X, W) + b)
-  cost = -1/num_samples * np.sum(Y*np.log(A) + (1-Y)*np.log(1-A))
+    # Forward pass
+    num_samples = X.shape[0]
+    A = sigmoid(np.dot(X, W) + b)
+    cost = -1/num_samples * np.sum(Y*np.log(A) + (1-Y)*np.log(1-A))
 
-  # Backward pass
-  dw = 1/m * np.dot(X, (A-Y).T)
-  db = 1/m * np.sum(A-Y)
+    # Backward pass
+    dW = 1/num_samples * np.dot(X.T, A-Y)
+    db = 1/num_samples * np.sum(A-Y)
 
-  grads = {
-    "dW": dW
-    "db": db
-  }
-  return cost, grads
+    grads = {
+        "dW": dW,
+        "db": db
+    }
+    return cost, grads
 ```
 
 

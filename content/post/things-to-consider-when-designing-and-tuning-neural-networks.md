@@ -6,6 +6,8 @@ draft: true
 
 # Steps of building a neural network model
 
+# Bias-Variance tradeoff
+
 # Choice of activation functions
 
 Most people use ReLU because it deals with vanishing gradient problem (input too large leading to zero gradients => slow training time)
