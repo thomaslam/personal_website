@@ -17,11 +17,13 @@ This is my planned learning roadmap of online courses covering topics I'm intere
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) (<span style="color:red">__IN PROGRESS__</span>)
+- Coursera's [Tensorflow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 - fast.ai courses:
     - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
     - [Practical Deep Learning for Coders](https://course.fast.ai)
     - [Cutting Edge Deep Learning for Coders](http://course18.fast.ai/part2.html)
     - [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+- Udacity's [Data Engineer Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu) (Lex Fridman)
 - [Stanford 224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu) (Richard Socher)
 - Coursera's [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models) (Daphne Koller)
