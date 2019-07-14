@@ -17,7 +17,7 @@ series: "Weekly Digests"
       * Listed on [Time's 100 Most Influential People in 2019](https://www.technologyreview.com/f/613345/the-scientist-who-created-crispr-babies-is-on-times-most-influential-list-but/); CRISP co-inventor wrote the profile: **"...He's decision will likely be remembered as one of the most shocking misapplications of any scientific tool in our history."**
   * The twins, nicknamed Lulu and Nana, might have had their [brains permanently enhanced](https://www.technologyreview.com/s/612997/the-crispr-twins-had-their-brains-altered/)... 😬
 
-# Op-eds
+# Big ideas
 * [Belief in meritocracy is bad for you](https://aeon.co/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you)
     * "believing in meritocracy makes people more selfish, less self-critical and even more prone to acting in discriminatory ways"
     * "in companies that explicitly held meritocracy as a core value, managers assigned greater rewards to male employees over female employees with identical performance evaluations. This preference disappeared where meritocracy was not explicitly adopted as a value"
@@ -30,16 +30,6 @@ series: "Weekly Digests"
 # ML/Data Science
 * [Google's intro series on Machine Learning](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * Episode on decision tree is particularly easy to follow
-
-# Random
-* [WF Production's Dating After College series](https://www.youtube.com/watch?v=AjGe7ol78ns)
-  * Relatable 😥
-  * [Vimeo link to support them](https://vimeo.com/ondemand/datingaftercollege)
-
-* [Damian Lilliard's buzzer beater gave Blazer's 4-1 win against OKC 😲](https://www.youtube.com/watch?v=ZGpfXW-AuFY)
-
-* [Chiitan - an unofficial mascot of Susaki, Japan](https://www.nytimes.com/2019/01/22/world/asia/japan-mascot-chiitan-otter.html) 😂
-  * [John Oliver's LWT episode](https://www.youtube.com/watch?v=f4fVdf4pNEc)
 
 # What I am working on
 * Coursera: [deeplearning.ai](https://www.coursera.org/specializations/deep-learning) courses (5 courses)

@@ -31,7 +31,7 @@ This is the first post of my weekly blog series on interesting things I've read/
       * In what way can a chef open a restaurant with a menu featuring cuisines from another ethnicity without risking cultural appropriation or insensitivity?
       * Obviously these chefs must learn the history and other nuances around the culture they want to serve dish from but how is that consideration reflected either in their menu or the way their restaurant is advertised/run?
 
-# Op-eds
+# Big ideas
 * [AI's white guy problem](https://www.technologyreview.com/s/613320/ais-white-guy-problem-isnt-going-away/)
   * AI bias in hiring women, perpetuating discrimination in housing and criminal justice shows up because of lack of diversity in tech workforce
   * tech diversity efforts have failed because companies wrongly focus on hiring "women in tech" (instead of more general diversity in race, gender, etc.) and "fixing pipeline" instead of focusing on retaining workers from underrep. groups by addressing systematic challenges such as compensation gap, harassment and power imbalance

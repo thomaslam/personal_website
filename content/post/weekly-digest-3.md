@@ -1,20 +1,21 @@
 ---
 title: "Weekly Digest 3"
-date: 2019-05-05
+date: 2019-07-14
 draft: true
 series: "Weekly Digests"
 ---
-*Weeks 05/27 - 06/02*
+*Weeks 07/07 - 07/13*
 
-Missed a few weeks oops
+Missed a few weeks oops 😬
 
 # News
 * [Melinda Gates' new book](https://www.npr.org/sections/goatsandsoda/2019/04/28/717438397/melinda-gates-on-marriage-parenting-and-why-she-made-bill-drive-the-kids-to-scho) on women empowerment as means to lift up society
-  * She founded [Pivotal Labs](www.pivotalventures.org) focused on investing in orgs/indivs around social progress (esp. with regards to women's life) in US
+    * Added to reading list
 
-* 
+* Waymo completes 10 billion virtual miles in simulation [[link]](https://techcrunch.com/2019/07/10/waymo-has-now-driven-10-billion-autonomous-miles-in-simulation/)
+    * Why important: more training data => better tech
 
-# Op-eds
+# Big ideas
 * [Don't try to be an influencer. Try to be a nerd instead](https://chibicode.com/posts/don-t-try-to-be-an-influencer-try-to-be-a-nerd-instead-don-t-try-to-maximize-your-impact-try-to-maximize-your-interest-instead/)
     * [Being a nerd pays off](https://twitter.com/codinghorror/status/852311991981035520/)
     * Being an influencer is a bad metric for self-worth; some people will never capture another people's needs or attention; being a nerd is always a winning strategy
@@ -30,10 +31,16 @@ Missed a few weeks oops
         * Be proactive/intentional with time and work (2-3 hours of deep undistracted work - no social media, preferably no disruptive emails/phone calls/meetings)
         * Focus on effort, compare against their best self instead of focusing on income/outcome and comparison against others
 
-# ML/Data Science
-* [Andrej Karpathy's blog on training neural networks](http://karpathy.github.io/2019/04/25/recipe/)
-    * Separate [blog post]({{< ref "/post/things-to-consider-when-designing-and-tuning-neural-networks.md" >}}) on this topic
+* [Ryan Holliday "Ego is the enemy" talk at Google](https://www.youtube.com/watch?v=Ug414e-PCn4)
+    * [Ego is the enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818) book
+    * Main takeways:
+        * We're all in 1 of 3 phases in life: aspiration, success, failure. In these phases, it is important to recognize where and when ego manifests and reduce its negative impact 
+            * Side: how to systematically recognize? 
+        * "Don't tell yourself a story": narrative that others paint for you or you paint yourself tends to overpower your ability to objectively judge reality
+            * **Don't look at past events in terms of what they say about you as a person; take the right lessons from them** 
+        * "I never look back, except to find out about mistakes... I only see danger in thinking back about things you are proud of." quote by Elisabeth Noelle-Neumann
 
+# ML/Data Science
 * [Illustrated proof of CAP theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
   * Defs:
       * **Consistent**: a read operation must return the result of the latest completed write operation
@@ -41,14 +48,26 @@ Missed a few weeks oops
       * **Partition tolerant**: messages between nodes in the system may be delayed or lost, i.e communication between nodes can be unreliable
   * Important to note: this is oversimplifying CAP - the defs are loose and the "proof" only helps with intuitive high-level understanding; more rigorous treament is presented in this [paper](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 
-* [Computational Linear Algebra](https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&index=2&t=0s) by fast.ai (I plan to complete these when I'm done with Coursera Deep Learning Specialization)
 
 
 # What I am working on
-* Coursera: [deeplearning.ai](https://www.coursera.org/specializations/deep-learning) courses (5 courses)
+* MOOC: [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) courses
+    * Course 2 (Hyperparam Tuning, Regularization and Optimization)
+    * Course 5 (Sequence Models)
 
-* Technical blog posts:
+* Technical blog post: word2vec algorithm
 
-* Recreational reading: Done with [Pachinko](https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935/). Good enjoyable read: 4/5 stars.
-  * Working on Cal Newport's [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
-  * 23% read
+* Personal project: figure out book progress tracking and highlights/notes personal web app similar to [highlights.sawyerh.com](https://highlights.sawyerh.com)
+    * [article](https://medium.com/@sawyerh/how-i-export-process-and-resurface-my-kindle-highlights-addc9de9af1a) on how he did it
+
+* Recreational reading:
+  * Books I've finished:
+      * [Pachinko](https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935/) by Min Jin Lee
+          * Good enjoyable read: ⭐⭐⭐⭐
+      * [How to American](https://www.amazon.com/How-American-Immigrants-Disappointing-Parents-ebook/dp/B074MY9PB9) by Jimmy O. Yang
+          * Surprisingly good read and lots of relatable moments: ⭐⭐⭐⭐
+  * Some books I'm currently working on:
+      * [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport (24%)      
+      * [Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) by Aziz Ansari (16%)      
+      * [The Three-body Problem](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past-ebook/dp/B00IQO403K/) by Liu Cixin (5%)       
+      * [On Earth We're Briefly Gorgeous](www.amazon.com/Earth-Were-Briefly-Gorgeous-Novel-ebook/dp/B07H72LJ5V) by Ocean Vuong (10%)
