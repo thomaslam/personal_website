@@ -27,6 +27,10 @@ staticDir = ["static"]
 [[params.menu]]
   name = "post series"
   url = "series/"
+
+[[params.menu]]
+  name = "reads"
+  url = "reads/"
   
 
 [[params.menu]]

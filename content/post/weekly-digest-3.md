@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest 3"
 date: 2019-07-14
-draft: true
+draft: false
 series: "Weekly Digests"
 ---
-*Weeks 07/07 - 07/13*
+*Weeks 07/08 - 07/14*
 
 Missed a few weeks oops 😬
 
