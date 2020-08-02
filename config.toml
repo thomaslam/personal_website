@@ -15,7 +15,7 @@ staticDir = ["static"]
   tag = "tags"
 
 [params]
-  titleEmoji = ":tada:"
+  titleEmoji = ":man_technologist:"
 
 [Permalinks]
   post = "post/:slug"
